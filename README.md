@@ -5,4 +5,4 @@
 <p>Then, run: <code> python3 -i nameoffile</code> to run your code</p>
 
 <h2> Disclaimer </h2>
-<p> The software was created using qrcode module, so all credit goes to all amazing people working at [Link to Google](https://www.google.com).</p>
+<p> The software was created using qrcode module, so all credit goes to all amazing people working at (Readme is giving me a hard time, here is the link: https://pypi.org/project/qrcode/)</p>
