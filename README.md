@@ -1,7 +1,4 @@
 # Python_QRCode_Generator
 
-
-Banana
-
-
-aa
+<h1> Usage </h1>
+<p> aaa</p>
