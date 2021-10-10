@@ -2,6 +2,7 @@
 
 <h2> Usage </h2>
 <p>First, change your directory to the local copy of the file on a Terminal Window.</p>
+<p> install python and the qrcode module (using pip install qrcode[pil])</p>
 <p>Then, run: <code>$ python3 -i nameoffile</code> to run your code</p>
 
 <h2> Disclaimer </h2>
